@@ -1,4 +1,4 @@
-Project is not mine. Used for study purposes
+study purposes
 
 # React + TypeScript + Vite
 
